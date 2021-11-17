@@ -1,0 +1,25 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #0000cc, #0000b3,  #000099, #000080, #000066, #00004d, #000033,  #00001a,  #000000, #1a0000, #330000, #4d0000, #660000, #800000, #990000, #b30000, #cc0000, #e60000, #ff0000);
+}
+
+.header
+{
+	color: #ccffcc;font-family: 'Dancing Script';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
